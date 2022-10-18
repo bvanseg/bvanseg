@@ -4,19 +4,44 @@
 ![GitHub followers](https://img.shields.io/github/followers/bvanseg?style=social)
 ![stars](https://img.shields.io/github/stars/bvanseg?style=social)
 
-Hello there, I'm Boston! Take a look around, grab some coffee, make yourself at home!
+Hello there, my name is Boston! Take a look around, grab some coffee and make yourself at home!
 
 <details open>
 <summary>
   <b>Social Media</b>
 </summary>
 
+<a href="https://github.com/bvanseg">
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"  alt="GitHub logo"/>
+</a>
 <a href="https://gitlab.com/bvanseg">
     <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"  alt="GitLab logo"/>
 </a>
+<a href="https://stackoverflow.com/users/20217890">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=StackOverflow&logoColor=white"  alt="GitHub logo"/>
+</a>
+<a href="https://twitter.com/bvanseg">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"  alt="Twitter logo"/>
 <a>
     <img src="https://img.shields.io/badge/-bvanseg%232164-5865F2?style=flat-square&logo=Discord&logoColor=white"  alt="Discord logo and username (bvanseg)"/>
 </a>
+
+</details>
+
+---
+
+<details open>
+<summary>
+  <b>Personal Interests</b>
+</summary>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux&logoColor=black)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E.svg?style=flat-square&logo=LinuxMint&logoColor=white)
+![GNU](https://img.shields.io/badge/GNU-A42E2B.svg?style=flat-square&logo=GNU&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A.svg?style=flat-square&logo=LLVM&logoColor=white)
+![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=flat-square&logo=f-droid&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=Brave&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)
 
 </details>
 
@@ -51,7 +76,7 @@ Hello there, I'm Boston! Take a look around, grab some coffee, make yourself at 
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
-### Frameworks, Platforms, Libraries
+### Frameworks, Platforms and Libraries
 
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka)
@@ -80,6 +105,10 @@ Hello there, I'm Boston! Take a look around, grab some coffee, make yourself at 
 ### Hosting/SaaS
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### Servers
+
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black)
 
 ### IDEs/Editors
 
@@ -132,7 +161,7 @@ Hello there, I'm Boston! Take a look around, grab some coffee, make yourself at 
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-### Frameworks, Platforms, Libraries
+### Frameworks, Platforms and Libraries
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
@@ -151,6 +180,10 @@ Hello there, I'm Boston! Take a look around, grab some coffee, make yourself at 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+
+### Servers
+
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 
 ### ML/DL
 
