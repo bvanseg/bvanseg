@@ -61,10 +61,10 @@ Hello there, my name is Boston! Take a look around, grab some coffee and make yo
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 
 ### Scripting
 
@@ -120,9 +120,9 @@ Hello there, my name is Boston! Take a look around, grab some coffee and make yo
 
 ### Source Control
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/Gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
 
 </details>
 
@@ -132,6 +132,10 @@ Hello there, my name is Boston! Take a look around, grab some coffee and make yo
 <summary>
   <b>Currently Learning</b>
 </summary>
+
+### Frontend
+
+![WebAssembly](https://img.shields.io/badge/Web_Assembly-654FF0.svg?style=flat-square&logo=WebAssembly&logoColor=white)
 
 ### Backend
 
