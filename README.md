@@ -36,12 +36,18 @@ Hello there, my name is Boston! Take a look around, grab some coffee and make yo
 </summary>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=Linux&logoColor=black)
+
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E.svg?style=flat-square&logo=LinuxMint&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1.svg?style=flat-square&logo=ArchLinux&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C.svg?style=flat-square&logo=Manjaro&logoColor=white)
+
 ![GNU](https://img.shields.io/badge/GNU-A42E2B.svg?style=flat-square&logo=GNU&logoColor=white)
 ![LLVM](https://img.shields.io/badge/LLVM-262D3A.svg?style=flat-square&logo=LLVM&logoColor=white)
-![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=flat-square&logo=f-droid&logoColor=white)
+
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=Brave&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)
+
+![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=flat-square&logo=f-droid&logoColor=white)
 
 </details>
 
@@ -104,7 +110,11 @@ Hello there, my name is Boston! Take a look around, grab some coffee and make yo
 
 ### Hosting/SaaS
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900.svg?style=flat-square&logo=amazon-ec2&logoColor=white)
+![ECS](https://img.shields.io/badge/Amazon_ECS-FF9900.svg?style=flat-square&logo=amazon-ecs&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-%23FF9900.svg?style=flat-square&logo=amazon-cloudwatch&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31.svg?style=flat-square&logo=amazon-s3&logoColor=white)
 
 ### Servers
 
@@ -136,6 +146,7 @@ Hello there, my name is Boston! Take a look around, grab some coffee and make yo
 ### Frontend
 
 ![WebAssembly](https://img.shields.io/badge/Web_Assembly-654FF0.svg?style=flat-square&logo=WebAssembly&logoColor=white)
+![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC.svg?style=flat-square&logo=AssemblyScript&logoColor=white)
 
 ### Backend
 
@@ -176,13 +187,12 @@ Hello there, my name is Boston! Take a look around, grab some coffee and make yo
 ### Databases
 
 ![ApacheCassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=flat-square&logo=apache-cassandra&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 
 ### Hosting/SaaS
 
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 
 ### Servers
