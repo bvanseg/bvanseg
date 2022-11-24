@@ -20,11 +20,6 @@ Hello there, my name is Boston! Take a look around, grab some coffee and make yo
 <a href="https://stackoverflow.com/users/20217890">
     <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=StackOverflow&logoColor=white"  alt="GitHub logo"/>
 </a>
-<a href="https://twitter.com/bvanseg">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"  alt="Twitter logo"/>
-<a>
-    <img src="https://img.shields.io/badge/-bvanseg%232164-5865F2?style=flat-square&logo=Discord&logoColor=white"  alt="Discord logo and username (bvanseg)"/>
-</a>
 
 </details>
 
